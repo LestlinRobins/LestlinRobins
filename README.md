@@ -19,6 +19,9 @@
 ---
 
 ### 📈 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LestlinRobins&show_icons=true&theme=dark&card_width=500&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LestlinRobins&layout=compact&theme=dark&card_width=500&hide_border=true)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=LestlinRobins&theme=dark&hide_border=true)
 ![Total Stars](https://img.shields.io/github/stars/lestlinrobins?style=for-the-badge)
 ![Total PRs](https://img.shields.io/github/issues-pr/lestlinrobins?style=for-the-badge)
 ![Total Merges](https://img.shields.io/github/issues-pr-closed/lestlinrobins?style=for-the-badge)
