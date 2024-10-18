@@ -1,7 +1,11 @@
 # Hi, I'm Lestlin Robins 👋
 
+### ✨ Fun Fact:
+I’m a tech enthusiast, product tester, and passionate photographer with a knack for creating engaging content for the tech community! When I’m not coding, you can find me exploring new gadgets or capturing the perfect shot with my phone!
+
+---
+
 ### 🚀 Skills & Technologies:
-# Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -28,13 +32,12 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 
-
 ---
 
 ### 💡 What I love to do:
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=I+love+to+%3Ccode%2F%3E;I+love+to+%3Ctest%2F%3E;I+love+to+debug;I+love+to+develop...;Tech+Enthusiast+at+heart!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=I+love+to+%3Ccode%2F%3E;I+love+to+%3Ctest%2F%3E;I+love+to+%3Cdebug%2F%3E;I+love+to+%3Cdevelop%2F%3E;I+love+to+innovate%3B;I+love+to+collaborate%3B;I+love+to+create...;Tech+Enthusiast+at+heart!" alt="Typing SVG" />
 </p>
 
 ---
@@ -48,23 +51,21 @@
 
 ### 🚀 OnePlus OxygenOS Contributor
 
-As an active participant in the OnePlus community, I've had the privilege of engaging in various product testing programs. My contributions include:
+As an **Exclusive Product Tester** for OnePlus, I actively engage in various product testing programs, providing insightful feedback that helps shape the future of OnePlus devices. My contributions include:
 
-- **Product Testing**: I have participated in extensive testing of devices, providing valuable feedback on software and hardware performance.
-- **Community Engagement**: I actively engage with fellow tech enthusiasts to share insights and improve product experiences.
-- **Recognition**: My efforts have been recognized by OnePlus, showcasing my commitment to enhancing product quality.
+- **Extensive Product Testing**: Participated in rigorous testing of new devices, focusing on software and hardware performance.
+- **Community Engagement**: Actively share insights and foster discussions with fellow tech enthusiasts to enhance user experiences.
+- **Recognition**: Acknowledged by OnePlus for my dedicated contributions, reflecting my commitment to improving product quality and user satisfaction.
 
 Feel free to check out my contributions and discussions in the OnePlus community!
 
 ---
 
-### ✨ Fun Fact:
-I’m a tech enthusiast, product tester, and passionate photographer with a knack for creating engaging content for the tech community!
+### 🌐 Connect with Me:
+
+- [LinkedIn](https://www.linkedin.com/in/lestlin-robins-299575259/)  
+- [GitHub](https://github.com/LestlinRobins)  
+- [Twitter](https://twitter.com/lestlinrobins)  
+- [Instagram](https://instagram.com/lestlin_robins)
 
 ---
-
-Feel free to reach out to me or explore my projects below:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lestlinrobins)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lestlinrobins)
-
