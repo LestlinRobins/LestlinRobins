@@ -46,9 +46,15 @@
 
 ---
 
-### 💼 Open-Source Contributions:
-- Contributed to [Project 1](https://github.com/xyz/project1)
-- Helped maintain [Project 2](https://github.com/xyz/project2)
+### 🚀 OnePlus OxygenOS Contributor
+
+As an active participant in the OnePlus community, I've had the privilege of engaging in various product testing programs. My contributions include:
+
+- **Product Testing**: I have participated in extensive testing of devices, providing valuable feedback on software and hardware performance.
+- **Community Engagement**: I actively engage with fellow tech enthusiasts to share insights and improve product experiences.
+- **Recognition**: My efforts have been recognized by OnePlus, showcasing my commitment to enhancing product quality.
+
+Feel free to check out my contributions and discussions in the OnePlus community!
 
 ---
 
