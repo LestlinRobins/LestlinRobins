@@ -63,9 +63,11 @@ Feel free to check out my contributions and discussions in the OnePlus community
 
 ### 🌐 Connect with Me:
 
-- [LinkedIn](https://www.linkedin.com/in/lestlin-robins-299575259/)  
-- [GitHub](https://github.com/LestlinRobins)  
-- [Twitter](https://twitter.com/lestlinrobins)  
-- [Instagram](https://instagram.com/lestlin_robins)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lestlin-robins-299575259)  
+[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lestlinrobins.netlify.app)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LestlinRobins)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lestlinrobins)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lestlin_robins)
+
 
 ---
